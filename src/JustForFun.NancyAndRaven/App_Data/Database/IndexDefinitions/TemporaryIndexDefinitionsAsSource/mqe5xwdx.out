@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0> "C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe" /t:library /utf8output /R:"C:\Users\Macs\AppData\Local\Temp\Temporary ASP.NET Files\root\b6e25583\e1e7c104\assembly\dl3\0974880b\32ea516e_f17ece01\Raven.Abstractions.dll" /R:"C:\Users\Macs\AppData\Local\Temp\Temporary ASP.NET Files\root\b6e25583\e1e7c104\assembly\dl3\b95b5f15\b4c7256e_f17ece01\Raven.Database.dll" /R:"C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll" /R:"C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll" /R:"C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll" /R:"C:\Users\Macs\AppData\Local\Temp\Temporary ASP.NET Files\root\b6e25583\e1e7c104\assembly\dl3\90eb9594\c611096e_f17ece01\Lucene.Net.dll" /out:"C:\Code\BitsAndBats\JustForFun.NancyAndRaven\JustForFun.NancyAndRaven\App_Data\Database\IndexDefinitions\TemporaryIndexDefinitionsAsSource\mqe5xwdx.dll" /debug- /optimize+  "C:\Code\BitsAndBats\JustForFun.NancyAndRaven\JustForFun.NancyAndRaven\App_Data\Database\IndexDefinitions\TemporaryIndexDefinitionsAsSource\mqe5xwdx.0.cs"
+
+
+Microsoft (R) Visual C# Compiler version 4.0.30319.17929
+for Microsoft (R) .NET Framework 4.5
+Copyright (C) Microsoft Corporation. All rights reserved.
+

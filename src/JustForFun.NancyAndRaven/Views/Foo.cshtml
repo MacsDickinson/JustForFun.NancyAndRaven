@@ -1,0 +1,29 @@
+﻿@inherits Nancy.ViewEngines.Razor.NancyRazorViewBase<dynamic>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>title</title>
+    </head>
+    <body>
+        <div>
+            <h2>New Foo</h2>
+            <form method="POST">
+                <label for="bar">Bar:</label>
+                <input type="text" name="bar" id="bar"/>
+                <input type="submit" value="Submit" />
+            </form>
+            <h2>Existing Foo</h2>
+            <ol>
+                @foreach (var foo in @Model)
+                {
+                    <li>@foo.Bar : @foo.DateCreated</li>
+                }
+            </ol>
+        </div>
+    </body>
+</html>

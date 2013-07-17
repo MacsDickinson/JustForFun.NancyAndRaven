@@ -1,0 +1,22 @@
+{
+  "Name": "Temp/Quotes/ByDateCreatedSortByDateCreated",
+  "Map": "from doc in docs.Quotes\r\nselect new { DateCreated = doc.DateCreated }",
+  "Maps": [
+    "from doc in docs.Quotes\r\nselect new { DateCreated = doc.DateCreated }"
+  ],
+  "Reduce": null,
+  "TransformResults": null,
+  "IsMapReduce": false,
+  "IsCompiled": false,
+  "IsTemp": true,
+  "Stores": {},
+  "Indexes": {},
+  "SortOptions": {
+    "DateCreated": "String"
+  },
+  "Analyzers": {},
+  "Fields": [],
+  "Suggestions": {},
+  "TermVectors": {},
+  "Type": "Temp"
+}
